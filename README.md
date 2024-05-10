@@ -4,6 +4,8 @@ Official implementation of ICRA2024 paper "Sim-to-Real Grasp Detection with Glob
 
 ## Installation
 
+The implementation is based on [MMDetection](https://github.com/open-mmlab/mmdetection) and [DGCAN](https://github.com/mahaoxiang822/dgcan).
+
 Please refer to [get_started.md](docs/get_started.md) for installation.
 
 ## Getting Started
